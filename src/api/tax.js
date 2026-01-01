@@ -12,7 +12,7 @@ export const getTaxes = async () => {
   }
 }
 
-export const updateTax = async (id: string | number, payload: object) => {
+export const updateTax = async (id, payload) => {
   try {
     const res = await axios.put(`${BASE_URL}/${id}`, payload)
     return res.data
