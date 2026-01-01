@@ -22,6 +22,15 @@ A modern React application for managing customer tax requests, built with Vite, 
 - **HTTP Client**: Axios
 - **Icons**: Lucide React
 
+ ## Screenshot
+ <img width="1914" height="925" alt="image" src="https://github.com/user-attachments/assets/d65f99ec-ff50-4f32-86d2-a29e75c926a1" />
+
+  <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/9567fc1b-0e0f-4f12-8a99-e675e9de5bef" />
+
+  <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/8d5a3c14-e9bc-482d-8b90-a79a11056845" />
+
+  
+
 ## APIs Used
 
 - **Taxes API**: `https://685013d7e7c42cfd17974a33.mockapi.io/taxes`
