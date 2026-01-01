@@ -54,7 +54,6 @@ A modern React application for managing customer tax requests, built with Vite, 
 
    ```bash
    git clone <repository-url>
-   cd inkle-frontend
    ```
 
 2. Install dependencies:
